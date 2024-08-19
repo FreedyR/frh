@@ -7,8 +7,8 @@ const Pages = () => {
     <Router>
       <Navigation />
       <Routes>
-        <Route exact path="/reservation_web" element={<Home />} />
-        <Route path="/resources" element={<Resources />}></Route>
+        <Route exact path="/frh" element={<Home />} />
+        <Route path="/rooms" element={<Resources />}></Route>
       </Routes>
     </Router>
   );
