@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frh/static/css/main.a56caf41.css",
+    "main.js": "/frh/static/js/main.ea95c041.js",
+    "static/js/453.2c448fd0.chunk.js": "/frh/static/js/453.2c448fd0.chunk.js",
+    "static/media/hotel.jpeg": "/frh/static/media/hotel.a68b7e42cc6307ded45e.jpeg",
+    "static/media/logo.png": "/frh/static/media/logo.e368f5c5fd6ad1f07433.png",
+    "static/media/fern_right.png": "/frh/static/media/fern_right.c4b14c332fd2a3a330c4.png",
+    "static/media/fern_left.png": "/frh/static/media/fern_left.1bef76f7d206aebd6279.png",
+    "static/media/room8.jpeg": "/frh/static/media/room8.f473063af21b7b7f3759.jpeg",
+    "static/media/room5.jpeg": "/frh/static/media/room5.e225eb1cb5fcb0bbb6a8.jpeg",
+    "static/media/room6.jpeg": "/frh/static/media/room6.7ed1be562c9ebb7f3e25.jpeg",
+    "index.html": "/frh/index.html",
+    "main.a56caf41.css.map": "/frh/static/css/main.a56caf41.css.map",
+    "main.ea95c041.js.map": "/frh/static/js/main.ea95c041.js.map",
+    "453.2c448fd0.chunk.js.map": "/frh/static/js/453.2c448fd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56caf41.css",
+    "static/js/main.ea95c041.js"
+  ]
+}
